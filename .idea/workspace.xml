@@ -20,9 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5f3afb2e-ec56-414d-ae6b-1bde225d4c4c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/characters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/password_generator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -47,7 +45,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../day_30_Exceptions" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -90,6 +88,9 @@
       <workItem from="1608206940932" duration="5448000" />
       <workItem from="1608218381068" duration="337000" />
       <workItem from="1608375409314" duration="9929000" />
+      <workItem from="1608393393838" duration="4328000" />
+      <workItem from="1608460833148" duration="1989000" />
+      <workItem from="1608548203342" duration="9506000" />
     </task>
     <servers />
   </component>
@@ -110,5 +111,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1716" y="454" key="FileChooserDialogImpl" timestamp="1608468012328">
+      <screen x="0" y="0" width="2560" height="1396" />
+    </state>
+    <state x="1716" y="454" key="FileChooserDialogImpl/0.0.2560.1396@0.0.2560.1396" timestamp="1608468012328" />
   </component>
 </project>
