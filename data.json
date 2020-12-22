@@ -1,6 +1,18 @@
 {
-    " amazon": {
-        "email": "tareq.joudeh@gmail.com",
-        "password": "C+6$HQT49Kqvo$WN"
+    "GitHub": {
+        "email": "person@email.com",
+        "password": "jsbw!(6of4Zbp"
+    },
+    "Amazon.com": {
+        "email": "my@email.com",
+        "password": "Hd*W)WPxEf62"
+    },
+    "udacity": {
+        "email": "email@email.com",
+        "password": "Jg2o1iWvU(&t"
+    },
+    "udemy": {
+        "email": "me@email.com",
+        "password": "DYITA$*0OwN8"
     }
 }
